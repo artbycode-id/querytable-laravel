@@ -1,0 +1,15 @@
+{
+    "name": "artbycode-id/querytable-laravel",
+    "autoload": {
+        "psr-4": {
+            "Artbycode\\QueryTable\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammad Usman",
+            "email": "moh.usman168@gmail.com"
+        }
+    ],
+    "require": {}
+}
